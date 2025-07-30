@@ -19,13 +19,13 @@ I'm a curious and driven **Networks & Cybersecurity student** who loves learning
 ### 🛠️ Tech Stack
 
 **Operating Systems & Tools:**  
-Linux • Bash • Docker • Git • Wireshark • Burp Suite • Nmap • Metasploit • VS Code
+Linux • Bash • Docker • Git • Wireshark • Burp Suite • Nmap • VS Code
 
 **Programming & Scripting:**  
 Python • JavaScript • Bash
 
 **Web Development:**  
-HTML • CSS • Node.js • React.js • Firebase • Express.js • REST APIs
+HTML • CSS • Node.js • React.js • Firebase • REST APIs
 
 **Cybersecurity & CTF:**  
 Web Exploitation • Forensics • Networks Security • Enumeration • Privilege Escalation • OSINT
